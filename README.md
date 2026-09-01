@@ -30,7 +30,7 @@
 G-Bot Mass Creator is a proprietary, premium automation software locked behind a hardware-bound licensing system. **You must purchase an active license to unlock the engine.**
 
 1. **Purchase your License Key securely via BoomFi:**
-   👉 **[Click Here to Buy G-Bot Mass Creator License](https://pay.boomfi.xyz/3Ca65f6s5jWVDAjcqQW6OjxxosW)** 
+   👉 **[Click Here to Buy G-Bot Mass Creator License](https://api.whatsapp.com/send?phone=447884508948)** 
 2. Upon confirming your payment, your unique License Key will be instantly emailed to you.
 3. **Run the executable file** for your specific operating system (Windows `.exe`, macOS `.dmg`, or Linux `.AppImage`).
 4. An activation window will appear automatically on startup. **Paste your License Key** into the prompt to activate your machine and instantly unlock the full suite.
